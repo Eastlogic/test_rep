@@ -5,3 +5,6 @@ Second edited string
 
 Changes have been made in the "branch"
 One another change has been made in "non-master branch"
+
+
+String modified after "some branch" merging with "master branch"
