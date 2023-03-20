@@ -15,7 +15,7 @@ $git config --list
 
 1) Сгенерировать SSH-ключ
 
-$ssh-keygen -t rsa -C "your_email@mail.com"
+$ssh-keygen -t rsa -b 4096 -C  "your_email@mail.com"
 
 - В качестве имени ssh-ключа указать id_rsa (или др.)
 - По указанному пути (например, c/Program Files/Git/.ssh)
